@@ -39,6 +39,9 @@ The objective of this pilot project is to conduct a thorough examination of cust
 
 ##Dashboard
 ![Screenshot 2024-07-16 213748](https://github.com/user-attachments/assets/2008079f-0b51-4dd4-a854-d003831d5e6f)
+![Screenshot 2024-07-16 214501](https://github.com/user-attachments/assets/79fed1b3-6101-4103-9c89-af79cb3bb249)
+![Screenshot 2024-07-16 230255](https://github.com/user-attachments/assets/eb3ee056-9da0-4ed8-acaf-a4cd238ae297)
+
 
 
 ##Key Insights :
