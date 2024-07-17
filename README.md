@@ -3,12 +3,12 @@
 Shield Insurance Company: Comprehensive Protection Against the Unforeseen 🛡️
 Shield Insurance Company, a leading provider of comprehensive insurance solutions, is fully dedicated to safeguarding individuals from unexpected events. Their commitment to ensuring reliable coverage sets them apart in the market.
 
-##⚒️ Tools Used:
+## ⚒️ Tools Used:
 ✅ Microsoft Excel
 ✅ Power BI
 ✅ Canva (for presentations)
 
-##🎯 Key Focus Areas:
+## 🎯 Key Focus Areas:
 
 ✍ Tracking customer and revenue growth
 
@@ -20,7 +20,7 @@ Shield Insurance Company, a leading provider of comprehensive insurance solution
 
 ✍ Conducting age group analysis
 
-##🌟 Lessons Learned from the Dashboard:
+## 🌟 Lessons Learned from the Dashboard:
 
 ✨ Premium: The amount of money paid by the policyholder to the insurance company for coverage.
 
@@ -30,14 +30,16 @@ Shield Insurance Company, a leading provider of comprehensive insurance solution
 
 ✨ Claim: A formal request made by the insured to the insurance company seeking compensation for covered losses or damages.
 
-##🏆 Objective:
+## 🏆 Objective:
 The objective of this pilot project is to conduct a thorough examination of customer growth and revenue patterns at Shield Insurance Company. The project's primary emphasis is on extracting significant observations regarding customer behavior, revenue generation, geographical distribution, and age group-based statistics. By analyzing these metrics, the project aims to offer valuable insights that help comprehend the company's performance and facilitate informed decision-making based on data
 
 ## Data Modeling 
 
 ![Screenshot 2024-07-16 213542](https://github.com/user-attachments/assets/34245122-d130-4b09-be68-3a1b87310b35)
 
-##Dashboard
+## Dashboard
+
+
 ![Screenshot 2024-07-16 213748](https://github.com/user-attachments/assets/2008079f-0b51-4dd4-a854-d003831d5e6f)
 ![Screenshot 2024-07-16 214501](https://github.com/user-attachments/assets/79fed1b3-6101-4103-9c89-af79cb3bb249)
 ![Screenshot 2024-07-16 230255](https://github.com/user-attachments/assets/eb3ee056-9da0-4ed8-acaf-a4cd238ae297)
